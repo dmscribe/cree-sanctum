@@ -3,7 +3,13 @@
 **Author:** Daniel Scribe · [github.com/dmscribe](https://github.com/dmscribe) · [x.com/danRydr](https://x.com/danRydr)  
 **Updated:** 2026-09-10
 
-Cree Sanctum Cryptographic Messenger (CS/CM) "Cree Sanctum", "Sanctum" or "Cree Messenger" is a sealed desk, not a feed.Keys live on the device. Words travel as ciphertext. Voice dies in twenty-four hours. The graph is an edge list you can cut — block, remove, stealth — not a score you cannot see. Discover is nine cards and a lesson: chat never trains the radar.Two layers hold the lock. One layer ranks the room. C++ is the law; the browser is only the window. Ghosts keep the desk alive so a human seat is never empty. Poles watch the horizon. Starters sit at the bottom of Contacts and stay servants, not people.Built to remember who you spoke to, never what you said. Built so a search is not a marriage, a profile open is not a claim, and a lodge is not a plantation. Thunderbird on teal glass. Mail that does not work for the algorithm.
+Cree Sanctum Cryptographic Messenger (CS/CM) "Cree Sanctum", "Sanctum" or "Cree Messenger" is a sealed desk, not a feed.
+
+Keys live on the device. Words travel as ciphertext. Voice dies in twenty-four hours. The graph is an edge list you can cut — block, remove, stealth — not a score you cannot see. Discover is nine cards and a lesson: chat never trains the radar.
+
+Two layers hold the lock. One layer ranks the room. C++ is the law; the browser is only the window. Ghosts keep the desk alive so a human seat is never empty. Poles watch the horizon. Starters sit at the bottom of Contacts and stay servants, not people.
+
+Built to remember who you spoke to, never what you said. Built so a search is not a marriage, a profile open is not a claim, and a lodge is not a plantation. Thunderbird on teal glass. Mail that does not work for the algorithm.
 
 C++ is the source of truth for the mailbox, identity binding, and Discover engine. The web cockpit is the desk: a windowed web OS. This file lists the product tree. Each line is a file and what it does. 
 
